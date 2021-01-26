@@ -4,7 +4,7 @@ Advancements in distributed ledger technologies are driving the rise of blockcha
 
 ## SteemOps
 We collect over 38 million blocks generated in *Steemit* during a 45 month time period from 2016/03 to 2019/11 and extract ten key types of operations performed by the users.
-The results generate *Steemit*, a new dataset that organizes over 900 million operations from *Steemit* into three sub-datasets:
+The results generate *SteemOps*, a new dataset that organizes over 900 million operations from *Steemit* into three sub-datasets:
 
 - **social-network operation dataset (SOD)**: comment, vote, custom_json;
 
@@ -13,3 +13,4 @@ The results generate *Steemit*, a new dataset that organizes over 900 million op
 - **value-tansfer operation dataset (VOD)**: transfer, transfer_to_vesting, delegate_vesting_shares, withdraw_vesting.
 
 ## Dataset
+Please find detailed instructions of the *SteemOps* dataset in our recently published paper 'SteemOps: Extracting and Analyzing Key Operations in Steemit Blockchain-based Social Media Platform', which has been accepted by the 11th ACM Conference on Data and Application Security and Privacy (CODASPY'21) for publishing.
