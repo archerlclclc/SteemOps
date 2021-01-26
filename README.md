@@ -1,6 +1,6 @@
 # SteemOps
 ## Steemit
-Advancements in distributed ledger technologies are driving the rise of blockchain-based social media platforms such as [*Steemit*](https://steemit.com/), where users interact with each other in similar ways as conventional social networks. 
+Advancements in distributed ledger technologies are driving the rise of blockchain-based social media platforms such as [*Steemit*](https://steemit.com/), where no single entity can take control of the information and users can receive cryptocurrency as rewards for creating or curating high-quality contents. 
 
 ## SteemOps: a well-processed ready-to-use dataset for Steemit
 We collect over 38 million blocks generated in *Steemit* during a 45 month time period from 2016/03 to 2019/11 and extract ten key types of operations performed by the users.
