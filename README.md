@@ -19,7 +19,8 @@ The results generate *SteemOps*, a new dataset that organizes over 900 million o
   - **delegate_vesting_shares**: users delegate *VESTS* to other users;
   - **withdraw_vesting**: users transfer *VESTS* to *STEEM*.
 
-## Dataset link
+## *SteemOps* dataset link
+The *SteemOps* dataset is available for downloading at: 
 
 ## *SteemOps* dataset paper
 Please find detailed instructions of the *SteemOps* dataset in our recently published paper **'SteemOps: Extracting and Analyzing Key Operations in Steemit Blockchain-based Social Media Platform'**, which has been accepted by [**ACM CODASPY'21**](http://www.codaspy.org/2021/index.html) for publishing.
