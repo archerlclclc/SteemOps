@@ -1,5 +1,5 @@
 # SteemOps
-## Steemit: a blockchain-based social media platform using the DPoS consensus protocol
+## Steemit: a DPoS-blockchain-based social media platform
 Advancements in distributed ledger technologies are driving the rise of blockchain-based social media platforms such as [*Steemit*](https://steemit.com/), where no single entity can take control of the information and users can receive cryptocurrency as rewards for creating or curating high-quality contents. 
 
 ## SteemOps: a well-processed ready-to-use dataset for Steemit
