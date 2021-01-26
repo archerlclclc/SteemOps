@@ -27,4 +27,4 @@ Please find detailed instructions of the *SteemOps* dataset in our recently publ
 ## Related papers
 The following papers used the *SteemOps* dataset in their research. You may also find them interesting.
 - Li, Chao, and Balaji Palanisamy. "[**Incentivized blockchain-based social media platforms: A case study of steemit**](https://www.researchgate.net/profile/Chao_Li146/publication/334159420_Incentivized_Blockchain-based_Social_Media_Platforms_A_Case_Study_of_Steemit/links/5d25f3ba458515c11c234419/Incentivized-Blockchain-based-Social-Media-Platforms-A-Case-Study-of-Steemit.pdf)." Proceedings of the 10th ACM Conference on Web Science. 2019.
-- Li, Chao, and Balaji Palanisamy. "Comparison of decentralization in dpos and pow blockchains." International Conference on Blockchain. Springer, Cham, 2020.
+- Li, Chao, and Balaji Palanisamy. "[**Comparison of decentralization in dpos and pow blockchains**](https://www.researchgate.net/publication/344372774_Comparison_of_Decentralization_in_DPoS_and_PoW_Blockchains)." International Conference on Blockchain. Springer, Cham, 2020.
