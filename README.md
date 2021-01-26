@@ -19,7 +19,7 @@ The results generate *SteemOps*, a new dataset that organizes over 900 million o
   - **delegate_vesting_shares**: users delegate *VESTS* to other users;
   - **withdraw_vesting**: users transfer *VESTS* to *STEEM*.
 
-## *SteemOps* dataset link
+## *SteemOps* dataset download
 The *SteemOps* dataset is available for downloading at: 
 
 ## *SteemOps* dataset paper
@@ -28,4 +28,5 @@ Please find detailed instructions of the *SteemOps* dataset in our recently publ
 ## Related papers
 The following papers used the *SteemOps* dataset in their research. You may also find them interesting.
 - Li, Chao, and Balaji Palanisamy. "[**Incentivized blockchain-based social media platforms: A case study of steemit**](https://www.researchgate.net/profile/Chao_Li146/publication/334159420_Incentivized_Blockchain-based_Social_Media_Platforms_A_Case_Study_of_Steemit/links/5d25f3ba458515c11c234419/Incentivized-Blockchain-based-Social-Media-Platforms-A-Case-Study-of-Steemit.pdf)." Proceedings of the 10th ACM Conference on Web Science. 2019.
+  - This paper presents an empirical analysis of Steemit to understand and evaluate the actual level of decentralization and the practical effects of cryptocurrency-driven reward system in the emerging social media platforms. Our study reveals that the actual level of decentralization in Steemit is far lower than the ideal level, indicating that the DPoS consensus protocol may not be a desirable approach for establishing a highly decentralized social media platform. Our analysis of the underlying cryptocurrency transfer network on the blockchain reveals that more than 16% transfers of cryptocurrency in Steemit are sent to curators suspected to be bots and also finds the existence of an underlying supply network for the bots, both suggesting a significant misuse of the current reward system in Steemit.
 - Li, Chao, and Balaji Palanisamy. "[**Comparison of decentralization in dpos and pow blockchains**](https://www.researchgate.net/publication/344372774_Comparison_of_Decentralization_in_DPoS_and_PoW_Blockchains)." International Conference on Blockchain. Springer, Cham, 2020.
