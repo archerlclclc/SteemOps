@@ -9,12 +9,10 @@ The results generate *SteemOps*, a new dataset that organizes over 900 million o
   - **comment**: users create posts, reply to posts or replies;
   - **vote**: users vote for posts;
   - **custom_json**: users follow other users, repost a blog.
-
 - **witness-election operation dataset (WOD)**:
   - **witness_update**: users join the witness pool to be elected, witnesses in pool update their information;
   - **witness_vote**: users vote for witnesses by themselves;
   - **witness_proxy**: users cast votes to the same witnesses voted by another user by setting that user as their election proxy.
-
 - **value-tansfer operation dataset (VOD)**:
   - **tranfer**: users transfer *STEEM/SBD* to other users;
   - **tansfer_to_vesting**: users transfer *STEEM/SBD* to *VESTS*;
@@ -28,4 +26,5 @@ Please find detailed instructions of the *SteemOps* dataset in our recently publ
 
 ## Related papers
 The following papers used the *SteemOps* dataset in their research. You may also find them interesting.
-
+- Li, Chao, and Balaji Palanisamy. "Incentivized blockchain-based social media platforms: A case study of steemit." Proceedings of the 10th ACM Conference on Web Science. 2019.
+- Li, Chao, and Balaji Palanisamy. "Comparison of decentralization in dpos and pow blockchains." International Conference on Blockchain. Springer, Cham, 2020.
