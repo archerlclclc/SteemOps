@@ -16,7 +16,7 @@ The results generate *SteemOps*, a new dataset that organizes over 900 million o
   - **witness_vote**: users vote for witnesses by themselves;
   - **witness_proxy**: users cast votes to the same witnesses voted by another user by setting that user as their election proxy.
 
-- **value-tansfer operation dataset (VOD)**: transfer, transfer_to_vesting, delegate_vesting_shares, withdraw_vesting.
+- **value-tansfer operation dataset (VOD)**:
   - **comment**: users transfer *STEEM/SBD* to other users;
   - **vote**: users transfer *STEEM/SBD* to *VESTS*;
   - **vote**: users delegate *VESTS* to other users;
