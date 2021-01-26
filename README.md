@@ -12,5 +12,9 @@ The results generate *SteemOps*, a new dataset that organizes over 900 million o
 
 - **value-tansfer operation dataset (VOD)**: transfer, transfer_to_vesting, delegate_vesting_shares, withdraw_vesting.
 
-## Dataset
+## Dataset link
+
+## Dataset paper
 Please find detailed instructions of the *SteemOps* dataset in our recently published paper **'SteemOps: Extracting and Analyzing Key Operations in Steemit Blockchain-based Social Media Platform'**, which has been accepted by [**ACM CODASPY'21**](http://www.codaspy.org/2021/index.html) for publishing.
+
+## Related papers
