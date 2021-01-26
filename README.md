@@ -24,7 +24,7 @@ The results generate *SteemOps*, a new dataset that organizes over 900 million o
 
 ## Dataset link
 
-## Dataset paper
+## *SteemOps* dataset paper
 Please find detailed instructions of the *SteemOps* dataset in our recently published paper **'SteemOps: Extracting and Analyzing Key Operations in Steemit Blockchain-based Social Media Platform'**, which has been accepted by [**ACM CODASPY'21**](http://www.codaspy.org/2021/index.html) for publishing.
 
 ## Related papers
