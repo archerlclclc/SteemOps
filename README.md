@@ -7,9 +7,9 @@ We collect over 38 million blocks generated in *Steemit* during a 45 month time 
 The results generate *SteemOps*, a new dataset that organizes over 900 million operations from *Steemit* into three sub-datasets:
 
 - **social-network operation dataset (SOD)**: comment, vote, custom_json;
--- comment, vote, custom_json;
--- comment, vote, custom_json;
--- comment, vote, custom_json;
+  - comment, vote, custom_json;
+  - comment, vote, custom_json;
+  - comment, vote, custom_json;
 
 - **witness-election operation dataset (WOD)**: witness_update, witness_vote, witness_proxy;
 
