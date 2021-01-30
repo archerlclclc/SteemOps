@@ -24,7 +24,7 @@ The *SteemOps* dataset is available for downloading at: TBA soon.
 
 ## *SteemOps* dataset paper
 Please find the detailed instructions for the *SteemOps* dataset in our recently published paper：
-*  Chao Li, Balaji Palanisamy, Runhua Xu, Runhua Xu and Jingzhe Wang. "[**'SteemOps: Extracting and Analyzing Key Operations in Steemit Blockchain-based Social Media Platform'**](http://www.lichao.work/files/2021-C-CODASPY.pdf)." Proc. of 11th ACM Conference on Data and Application Security and Privacy ([**ACM CODASPY'21**](http://www.codaspy.org/2021/)), Virtual Event, USA, 2021.
+*  Chao Li, Balaji Palanisamy, Runhua Xu, Runhua Xu and Jingzhe Wang. "[**SteemOps: Extracting and Analyzing Key Operations in Steemit Blockchain-based Social Media Platform**](http://www.lichao.work/files/2021-C-CODASPY.pdf)." Proc. of 11th ACM Conference on Data and Application Security and Privacy ([**ACM CODASPY'21**](http://www.codaspy.org/2021/)), Virtual Event, USA, 2021.
 
 
 ## Related papers
