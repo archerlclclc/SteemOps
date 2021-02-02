@@ -20,7 +20,7 @@ The results generate *SteemOps*, a new dataset that organizes over 900 million o
   - **withdraw_vesting**: users transfer *VESTS* to *STEEM*.
 
 ## *SteemOps* dataset download
-The *SteemOps* dataset is available for downloading at: [LINK](httpsbjtueducn-my.sharepoint.comfgpersonalli_chao_bjtu_edu_cnEruRt6_AvX9OgOnFev-SYxMBDh_OWwGVx_XiiCcBM_dxhge=O1GWRd)
+The *SteemOps* dataset is available for downloading at: [**LINK**](httpsbjtueducn-my.sharepoint.comfgpersonalli_chao_bjtu_edu_cnEruRt6_AvX9OgOnFev-SYxMBDh_OWwGVx_XiiCcBM_dxhge=O1GWRd)
 
 ## *SteemOps* dataset paper
 Please find the detailed instructions for the *SteemOps* dataset in our recently published paper：
