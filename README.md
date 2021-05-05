@@ -32,7 +32,7 @@ Please find the detailed instructions for the *SteemOps* dataset in our recently
 > &ensp;  booktitle={Proceedings of the Eleventh ACM Conference on Data and Application Security and Privacy},\
 > &ensp;  pages={113--118},\
 > &ensp;  year={2021}\
-> }\
+> }
 > 
 
 
